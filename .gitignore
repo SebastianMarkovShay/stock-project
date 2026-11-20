@@ -1,0 +1,7 @@
+.venv/
+.venv-poc/
+.idea/
+__pycache__/
+*.py[cod]
+data/
+.env
